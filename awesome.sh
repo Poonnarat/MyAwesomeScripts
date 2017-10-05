@@ -9,7 +9,7 @@ fi
 if [ $k == "--help" ]; then
   #statements
   echo "1) This program will find all sub-directories containing more than K files"
-  echo "2) Torun this do ./awesome.sh k"
+  echo "2) To run this do ./awesome.sh K"
   echo "3) K is a number"
   exit
 fi
